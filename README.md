@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on [philperez.dev](https://philperez.dev)
-- 🌱 I’m currently upskilling on data structures and algorithms
+- 🌱 I’m currently upskilling on ~~data structures and algorithms~~ AWS
 
 ## Connect with me:
 
