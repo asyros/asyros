@@ -6,7 +6,7 @@
 -->
 
 
-- 🔭 I’m currently working on ~~[philperez.dev](https://philperez.dev)~~ A side project for a friend 
+- 🔭 I’m currently working on A side project for a friend (turning a backend database into a web app)
 - 🌱 I’m currently upskilling on ~~data structures and algorithms~~ AWS
 
 ## Connect with me:
