@@ -2,11 +2,7 @@
 
 <!--
 **asyros/asyros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
-
-
-- 🌱 I’m currently upskilling on ~~data structures and algorithms~~ AWS
 
 ## Connect with me:
 
