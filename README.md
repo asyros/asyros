@@ -7,7 +7,6 @@
 ## Connect with me:
 
 [![Website](https://img.shields.io/badge/website-CCCCCC?style=for-the-badge)](https://www.philperez.dev/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PhilPer64238828)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phil-perez-b23319b3/?originalSubdomain=uk)
 
 ### Github Stats
